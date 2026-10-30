@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351812504477",
+    "project_id": "law-firm-tycoon-5238b",
+    "storage_bucket": "law-firm-tycoon-5238b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351812504477:android:653ef81bf42f4a4a303d74",
+        "android_client_info": {
+          "package_name": "com.gamebag.lawfirmtycoon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2OM5N_rtFnoRmluek_P9QVeUmgkE1FRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
